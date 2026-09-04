@@ -26,3 +26,7 @@ A simple and interactive Quiz Application built using HTML, CSS, and JavaScript.
 - **HTML** – Structure of the application
 - **CSS** – Styling and layout
 - **JavaScript** – Quiz logic and interactivity
+
+## 🏗️ Architecture
+
+User Interface (HTML & CSS) → JavaScript Logic → Quiz Questions → Score Calculation → Result Display
